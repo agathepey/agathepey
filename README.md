@@ -25,7 +25,6 @@ Ex-Heetch · Design systems · A11y · Testing · CI/CD
 
 ## 🛠 Indie projects
 - **Kiadja** — Mobile party game app (iOS & Android, React Native, Expo, RevenueCat, PostHog).  
-- **ZenChrono** — Minimalist meditation timer (React Native).  
 
 ---
 
