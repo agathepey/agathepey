@@ -14,9 +14,9 @@ Established frontend best practices: design system, accessibility, testing, CI/C
 ---
 
 ## 🧰 Tech stack
-**Frontend**: React · Next.js · TypeScript · Tailwind · Storybook
-**Testing**: React Testing Library · Cypress · Playwright
-**Tools**:  Git · CI/CD · REST APIs · Node.js
+- **Frontend**: React · Next.js · TypeScript · Tailwind · Storybook
+- **Testing**: React Testing Library · Cypress · Playwright
+- **Tools**:  Git · CI/CD · REST APIs · Node.js
 
 ---
 
@@ -27,6 +27,6 @@ Available on iOS & Android
 ---
 
 ## 📎 Links
-LinkedIn: https://www.linkedin.com/in/agathe-peyrint-6857b391/
-Email: agathe.peyrint@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/agathe-peyrint-6857b391/
+- Email: agathe.peyrint@gmail.com  
 
