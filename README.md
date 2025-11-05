@@ -1,40 +1,32 @@
-<h1 align="center">Agathe Peyrint — Frontend Engineer</h1>
+<h1 align="center">Agathe Peyrint</h1>
 
 <p align="center">
-Frontend specialist · 6+ years building scalable web apps with React, Next.js & TypeScript.<br/>
-Ex-Heetch · Design systems · A11y · Testing · CI/CD
+Frontend Engineer specializing in React, TypeScript, and scalable web applications.
 </p>
 
 ---
 
-## ✨ Experience highlights
-- **Heetch** — Built and evolved strategic React/Next.js apps used daily by 15k+ drivers & ops teams.  
-  → Design system in Storybook, frontend best practices (a11y, tests, CI/CD).  
-- **Flamingo** (Heetch OSS) — React component library, Storybook integration, a11y, CI.  
-- **Freelance** — SEO-friendly websites & internal tools (React, Webflow, TypeScript).
+## ✨ Experience
+- **Heetch** — Built production apps for 15k+ drivers and ops teams using React, Next.js, and TypeScript.
+Established frontend best practices: design system, accessibility, testing, CI/CD.
+- **Freelance** — Delivered SEO-optimized websites and internal tools.
 
 ---
 
-## 🧰 Core stack
-**Frontend**: React, Next.js (SSR/SSG), TypeScript, Tailwind, Styled-Components, Storybook  
-**Quality**: Jest, React Testing Library, Cypress, Playwright, CI/CD (GitHub Actions, Vercel, Netlify)  
-**Ecosystem**: Node.js, REST APIs, Firebase/Firestore  
-**Design & DX**: Figma, design systems, accessibility, performance  
+## 🧰 Tech stack
+**Frontend**: React · Next.js · TypeScript · Tailwind · Storybook
+**Testing**: React Testing Library · Cypress · Playwright
+**Tools**:  Git · CI/CD · REST APIs · Node.js
 
 ---
 
 ## 🛠 Indie projects
-- **Kiadja** — Mobile party game app (iOS & Android, React Native, Expo, RevenueCat, PostHog).  
+- **Kiadja** — Mobile party game app (React Native, Expo, RevenueCat, PostHog).
+Available on iOS & Android
 
 ---
 
 ## 📎 Links
-GitHub: https://github.com/agathepey •  
-LinkedIn: https://www.linkedin.com/in/agathe-peyrint-6857b391/ •  
+LinkedIn: https://www.linkedin.com/in/agathe-peyrint-6857b391/
 Email: agathe.peyrint@gmail.com  
 
----
-
-## 📌 Pinned
-- `flamingo` (fork) — my notes on contributions & a11y/Storybook work  
-- `kiadja-public` — showcase + screenshots  
