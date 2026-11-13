@@ -1,5 +1,5 @@
 
-## Agathe Peyrint - Mobile & Frontend Engineer ✨
+### Agathe Peyrint - Mobile & Frontend Engineer ✨
 
 ## 📎 Links
 - LinkedIn: https://www.linkedin.com/in/agathe-peyrint-6857b391/
