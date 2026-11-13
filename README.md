@@ -1,5 +1,5 @@
-<h3 align="center">
-## Agathe Peyrint - Mobile & Frontend Engineer ✨</h3>
+
+## Agathe Peyrint - Mobile & Frontend Engineer ✨
 
 ## 📎 Links
 - LinkedIn: https://www.linkedin.com/in/agathe-peyrint-6857b391/
