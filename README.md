@@ -1,5 +1,5 @@
-<h1 align="center">Agathe Peyrint</h1> <h3 align="center">
-Mobile & Frontend Engineer</h3>
+<h3 align="center">
+Agathe Peyrint - Mobile & Frontend Engineer ✨</h3>
 
 ---
 
