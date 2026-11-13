@@ -1,8 +1,6 @@
 <h3 align="center">
 Agathe Peyrint - Mobile & Frontend Engineer ✨</h3>
 
----
-
 ## 🛠 Indie projects
 - **Kiadja** — Mobile party game app (React Native, Expo, RevenueCat, PostHog).
 Available on iOS & Android
